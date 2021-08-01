@@ -11,4 +11,8 @@ Below are the questions links with solution links
 |[Insertion Sort Part - 2](https://www.hackerrank.com/challenges/insertionsort2)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/insertionSortPart2.py)|
 |[Correctness and Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/correctnessAndTheLoopInvariant.py)|
 |[Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/runningTimeOfAlgorithms.py)|
+|[Quick Sort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/quickSort1_partition.py)|
+|[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/countingSort_1.py)|
+|[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/countingSort_2.py)|
+|[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/closestNumbers.py)|
 |[Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/insertionSortAdvancedAnalysis.py)|
