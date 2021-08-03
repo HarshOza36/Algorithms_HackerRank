@@ -6,7 +6,7 @@ Below are the questions links with solution links
 |Problem |Solution|
 |--------------|--------|
 |[Grading Students](https://www.hackerrank.com/challenges/grading)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/gradingStudents.py)|
-|[Apple and Orange]https://www.hackerrank.com/challenges/apple-and-orange()|[Solution]()|
-|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo)|[Solution]()|
-|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)|[Solution]()|
-|[Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)|[Solution]()|
+|[Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/applesAndOranges.py)|
+|[Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/numberLineJumps.py)|
+|[Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/betweenTwoSets.py)|
+|[Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/breakingTheRecord.py)|
