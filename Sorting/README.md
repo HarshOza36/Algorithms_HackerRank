@@ -14,5 +14,7 @@ Below are the questions links with solution links
 |[Quick Sort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/quickSort1_partition.py)|
 |[Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/countingSort_1.py)|
 |[Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/countingSort_2.py)|
+|[The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4)|[Solution]()|
 |[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/closestNumbers.py)|
+|[Find the Median](https://www.hackerrank.com/challenges/find-the-median)|[Solution]()|
 |[Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/insertionSortAdvancedAnalysis.py)|
