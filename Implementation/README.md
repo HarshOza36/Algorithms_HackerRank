@@ -15,3 +15,9 @@ Below are the questions links with solution links
 |[Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/migratoryBirds.py)|
 |[Day Of The Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/dayOfTheProgrammer.py)|
 |[Bill Division](https://www.hackerrank.com/challenges/bon-appetit)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/billDivision.py)|
+|[Sales By Match](https://www.hackerrank.com/challenges/sock-merchant)|[Solution]()|
+|[Drawing Book](https://www.hackerrank.com/challenges/drawing-book)|[Solution]()|
+|[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)]|[Solution]()|
+|[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)|[Solution]()|
+
+
