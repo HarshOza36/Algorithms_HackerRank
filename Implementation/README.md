@@ -19,5 +19,7 @@ Below are the questions links with solution links
 |[Drawing Book](https://www.hackerrank.com/challenges/drawing-book)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/drawingBook.py)|
 |[Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/countingValleys.py)|
 |[Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/electronicsShop.py)|
-
-
+|[Cat and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse)|[Solution]()|
+|[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming)|[Solution]()|
+|[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)|[Solution]()|
+|[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)|[Solution]()|
