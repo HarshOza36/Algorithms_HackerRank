@@ -23,5 +23,5 @@ Below are the questions links with solution links
 |[Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/formingAMagicSquare.py)|
 |[Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/pickingNumbers.py)|
 |[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/climbingTheLeaderboard.py)|
-|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)|[Solution]()|
-|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)|[Solution]()|
+|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/theHurdleRace.py)|
+|[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/designerPDFViewer.py)|
