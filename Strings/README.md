@@ -1,4 +1,4 @@
-# HackerRank Problem Solving (Algorithms) - Implementation Subdomain.
+# HackerRank Problem Solving (Algorithms) - String Subdomain.
 
 Below are the questions links with solution links
 
