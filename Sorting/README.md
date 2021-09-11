@@ -18,3 +18,4 @@ Below are the questions links with solution links
 |[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/closestNumbers.py)|
 |[Find the Median](https://www.hackerrank.com/challenges/find-the-median)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/findTheMedian.py)|
 |[Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Sorting/insertionSortAdvancedAnalysis.py)|
+|[Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications)|[Solution]()|
