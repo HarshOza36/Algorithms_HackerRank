@@ -13,7 +13,7 @@ Below are the questions links with solution links
 |[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/marsExploration.py)|
 |[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/hackerrankInAString.py)|
 |[Pangrams](https://www.hackerrank.com/challenges/pangrams)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/pangrams.py)|
-|[Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)|[Solution]()|
+|[Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/weightedUniformStrings.py)|
 |[Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/separateTheNumbers.py)|
 |[Funny String](https://www.hackerrank.com/challenges/funny-string)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/funnyStrings.py)|
 |[Gemstones](https://www.hackerrank.com/challenges/gem-stones)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/gemstones.py)|
