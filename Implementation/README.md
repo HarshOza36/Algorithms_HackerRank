@@ -25,3 +25,13 @@ Below are the questions links with solution links
 |[Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/climbingTheLeaderboard.py)|
 |[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/theHurdleRace.py)|
 |[Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/designerPDFViewer.py)|
+|[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree)|[Solution]()|
+|[Angry Professor](https://www.hackerrank.com/challenges/angry-professor)|[Solution]()|
+|[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies)|[Solution]()|
+|[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising)|[Solution]()|
+|[Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner)|[Solution]()|
+|[Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation)|[Solution]()|
+|[Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation)|[Solution]()|
+|[Jumping on the clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)|[Solution]()|
+|[Find Digits](https://www.hackerrank.com/challenges/find-digits)|[Solution]()|
+|[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution]()|
