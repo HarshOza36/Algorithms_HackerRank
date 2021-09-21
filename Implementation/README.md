@@ -35,3 +35,11 @@ Below are the questions links with solution links
 |[Jumping on the clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/jumpingOnTheClouds_Revisited.py)|
 |[Find Digits](https://www.hackerrank.com/challenges/find-digits)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/findDigits.py)|
 |[Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/extraLongFactorials.py)|
+|[Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)|[Solution]()|
+|[Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem)|[Solution]()|
+|[Library Fine](https://www.hackerrank.com/challenges/library-fine/problem)|[Solution]()|
+|[Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem)|[Solution]()|
+|[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|[Solution]()|
+|[Repeated Strings](https://www.hackerrank.com/challenges/repeated-string/problem)|[Solution]()|
+|[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[Solution]()|
+
