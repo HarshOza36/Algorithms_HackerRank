@@ -20,4 +20,7 @@ Below are the questions links with solution links
 |[Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/alternatingCharacters.py)|
 |[Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/beautifulBinaryString.py)|
 |[The Love - Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/theLove-letterMystery.py)|
+|[Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health/problem)|[Solution]()|
+|[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem)|[Solution]()|
+|[Anagram](https://www.hackerrank.com/challenges/anagram/problem)|[Solution]()|
 
