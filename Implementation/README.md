@@ -42,4 +42,4 @@ Below are the questions links with solution links
 |[Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset/problem)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/nonDivisibleSubset.py)|
 |[Repeated Strings](https://www.hackerrank.com/challenges/repeated-string/problem)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/repeatedString.py)|
 |[Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Implementation/jumpingontheCloud.py)|
-
+|[Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[Solution]()|
