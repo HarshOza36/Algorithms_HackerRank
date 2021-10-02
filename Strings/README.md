@@ -23,6 +23,6 @@ Below are the questions links with solution links
 |[Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health/problem)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/determiningDNAhealth.py)|
 |[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index/problem)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/palindromeIndex.py)|
 |[Anagram](https://www.hackerrank.com/challenges/anagram/problem)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/anagram.py)|
-|[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)|[Solution]()|
-|[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|[Solution]()|
+|[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/makingAnagrams.py)|
+|[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/gameOfThrones_I.py)|
 
