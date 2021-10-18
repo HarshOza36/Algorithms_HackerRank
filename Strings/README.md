@@ -25,4 +25,6 @@ Below are the questions links with solution links
 |[Anagram](https://www.hackerrank.com/challenges/anagram/problem)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/anagram.py)|
 |[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams/problem)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/makingAnagrams.py)|
 |[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|[Solution](https://github.com/HarshOza36/Algorithms_HackerRank/blob/main/Strings/gameOfThrones_I.py)|
+|[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|[Solution]()|
+
 
